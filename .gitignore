@@ -1,0 +1,15 @@
+/Src/Backup/
+/Inc/Backup/
+/cmake-build-*/
+
+*.bak
+/Makefile
+
+Debug/
+Release/
+
+External/2022_Library
+
+External/
+
+null.d
